@@ -1,0 +1,8 @@
+﻿  Generating code
+c:\c++\pk3\tetris3\project1\project1\pausescreen.cpp(34): warning C4715: 'PauseScreen::drawMenu': not all control paths return a value
+c:\c++\pk3\tetris3\project1\project1\welcomescreen.cpp(241): warning C4715: 'WelcomeScreen::highscoresMenu': not all control paths return a value
+c:\c++\pk3\tetris3\project1\project1\welcomescreen.cpp(209): warning C4715: 'WelcomeScreen::endGame': not all control paths return a value
+  All 491 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\C++\PK3\Tetris3\Project1\Release\Tetris.exe
+  Project1.vcxproj -> C:\C++\PK3\Tetris3\Project1\Release\Tetris.pdb (Full PDB)

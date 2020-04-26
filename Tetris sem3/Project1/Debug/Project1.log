@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+c:\c++\pk3\tetris3\project1\project1\pausescreen.h(5): warning C4005: 'ITEMS': macro redefinition
+  c:\c++\pk3\tetris3\project1\project1\welcomescreen.h(7): note: see previous definition of 'ITEMS'
+c:\c++\pk3\tetris3\project1\project1\game.cpp(34): warning C4244: '=': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\c++\pk3\tetris3\project1\project1\pausescreen.h(5): warning C4005: 'ITEMS': macro redefinition
+  c:\c++\pk3\tetris3\project1\project1\welcomescreen.h(7): note: see previous definition of 'ITEMS'
+  Generating Code...
+  Project1.vcxproj -> C:\C++\PK3\Tetris3\Project1\Debug\Tetris.exe
+  Project1.vcxproj -> C:\C++\PK3\Tetris3\Project1\Debug\Tetris.pdb (Partial PDB)

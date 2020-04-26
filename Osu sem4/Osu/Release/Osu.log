@@ -1,0 +1,158 @@
+﻿  BonusAimTarget.cpp
+  CircleCollisionDetector.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\circlecollisiondetector.cpp(5): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(213): warning C4018: '<': signed/unsigned mismatch
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(221): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(222): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(228): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\game.cpp(229): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generator.cpp
+  HealingTarget.cpp
+  main.cpp
+  NormalTarget.cpp
+  Player.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(7): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(8): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(9): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(24): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\player.cpp(44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Scores.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\scores.cpp(34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\scores.cpp(41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\scores.cpp(22): warning C4101: 'ex': unreferenced local variable
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\scores.cpp(72): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\scores.cpp(132): warning C4101: 'ex': unreferenced local variable
+  Target.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\target.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WelcomeScreen.cpp
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(25): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(165): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(231): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(234): warning C4244: 'argument': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(191): warning C4715: 'WelcomeScreen::endGameWithoutSave': not all control paths return a value
+c:\c++\lab\91dc3109-gr61-repo\projekt\projekt osu\osu\osu\welcomescreen.cpp(297): warning C4715: 'WelcomeScreen::endGameWithSave': not all control paths return a value
+  1429 of 1445 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    985 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Osu.vcxproj -> C:\C++\lab\91dc3109-gr61-repo\Projekt\Projekt Osu\Osu\Release\Osu.exe

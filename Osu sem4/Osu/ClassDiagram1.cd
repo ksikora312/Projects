@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BonusAimTarget">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAQAAAAAAAAAAAAAAIAAAAAAAAAAAI=</HashCode>
+      <FileName>BonusAimTarget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CircleCollisionDetector">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CircleCollisionDetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABCAAAggBAAGAIBAgAAAmQAAg5AABCAKBABAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAIAQAAAAAEAFYQAAAARAAAAAQAAAAAAQABA=</HashCode>
+      <FileName>Generator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealingTarget">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAQAAAAAAAAAAAAAAIAAAAAQAAAAAA=</HashCode>
+      <FileName>HealingTarget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NormalTarget">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAgAQAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>NormalTarget.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAAIHgBAACgCAAAAAAAQAAAAAAgQEEAACAQgAAAg=</HashCode>
+      <FileName>Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scores">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGIAAIAAIIAAZAgAAAAIBAAAAAAACQAAAABAAQAQAAA=</HashCode>
+      <FileName>Scores.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Target">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAACABIAAACBUgAQAAKZACBCAAAAAAIAKAAAIAEAIgA=</HashCode>
+      <FileName>Target.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WelcomeScreen">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAABAAAgAAAQAIgABAAAAgAAgAAIAAIAAEAIIAA=</HashCode>
+      <FileName>WelcomeScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="scor">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scores.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
